@@ -1,0 +1,6 @@
+.banner {
+    width: 100vw;
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+}
